@@ -12,8 +12,8 @@ class MyDocument extends Document {
 					<meta name="twitter:card" content="summary_large_image" />
 					<meta name="twitter:title" content="Frei Tamás kávé név generátor" />
 					<meta name="twitter:description" content="ChatGPT API-val generált random kávénevek." />
-					<meta property="og:image" content="og-image.png" />
-					<meta name="twitter:image" content="og-image.png" />
+					<meta property="og:image" content="https://cafe-frei-gpt.vercel.app/og-image.png" />
+					<meta name="twitter:image" content="https://cafe-frei-gpt.vercel.app/og-image.png" />
 				</Head>
 				<body>
 					<Main />
